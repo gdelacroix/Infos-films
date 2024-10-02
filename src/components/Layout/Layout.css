@@ -1,0 +1,27 @@
+  /* fichier Layout.css */
+  .container {
+    Margin-top: 100px;
+    text-align: center;
+}
+nav {
+  display: flex;
+  justify-content: center; /* Centre les éléments horizontalement */
+}
+
+
+ .nav {
+    display: flex;
+    flex-direction : row;
+    list-style-type: none; /* Retire les puces des éléments de liste */
+}
+     
+ .nav-item {
+    color: blue;
+    background-color: blueviolet;
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 5px 25px;
+    padding: 5px;
+}
+
+
