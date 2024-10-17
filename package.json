@@ -1,5 +1,6 @@
 {
   "name": "infos-film-dwwm",
+  "homepage": "https://gdelacroix.github.io/Infos_Films_With_Vite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
