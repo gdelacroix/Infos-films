@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Infos_Films_With_Vite/static/css/main.426af9c2.css",
+    "main.js": "/Infos_Films_With_Vite/static/js/main.6e61d55b.js",
+    "static/js/453.35e624ee.chunk.js": "/Infos_Films_With_Vite/static/js/453.35e624ee.chunk.js",
+    "index.html": "/Infos_Films_With_Vite/index.html",
+    "main.426af9c2.css.map": "/Infos_Films_With_Vite/static/css/main.426af9c2.css.map",
+    "main.6e61d55b.js.map": "/Infos_Films_With_Vite/static/js/main.6e61d55b.js.map",
+    "453.35e624ee.chunk.js.map": "/Infos_Films_With_Vite/static/js/453.35e624ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.426af9c2.css",
+    "static/js/main.6e61d55b.js"
+  ]
+}
